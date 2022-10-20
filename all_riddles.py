@@ -1,6 +1,7 @@
 riddles_json = {"riddles":
     [
     {"correct":0,"guesses":0,"id":89,"question":"1"},
+    {"correct":0,"guesses":9,"id":55,"question":"What is 1+2+3+4+5......+100"},
     {"correct":529,"guesses":549,"id":32,"question":"Who's named after a city but as tall as the eiffel tower?"},
     {"correct":87,"guesses":118,"id":5,"question":"I posted a riddle, who am i?"},
     {"correct":1,"guesses":2,"id":88,"question":"Ocean"},
