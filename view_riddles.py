@@ -5,7 +5,7 @@ def main():
     riddles_list = riddles_json['riddles']
     
     for riddle in riddles_list:
-        print("{}".format(riddle['question']))
+        print("#{}".format(riddle['question']))
 
 
 
